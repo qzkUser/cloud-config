@@ -1,0 +1,10 @@
+spring:
+  application:
+      name: cloudE-admin-server
+
+eureka:
+  instance:
+    prefer-ip-address: true
+
+server:
+  port: 8050
